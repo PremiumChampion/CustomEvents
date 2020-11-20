@@ -6,7 +6,7 @@ Custom_Events is a class to create and manage custom events, handlers and listen
 
 ## Installation
 
-Copy file [file](./Custom_Events.ts) into the src folder of your project and import the class Custom_Events
+Copy  this [file](./Custom_Events.ts) into the src folder of your project and import the class Custom_Events
 
 ```typescript
 import { Custom_Events } from "./PathToFile/Custom_Events";
